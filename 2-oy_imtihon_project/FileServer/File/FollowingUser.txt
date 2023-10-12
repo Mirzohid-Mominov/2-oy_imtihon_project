@@ -1,0 +1,32 @@
+[
+  {
+    "FirstName": "4",
+    "LastName": "4",
+    "PhoneNumber": "ds",
+    "Id": 1
+  },
+  {
+    "FirstName": "",
+    "LastName": "",
+    "PhoneNumber": "",
+    "Id": 2
+  },
+  {
+    "FirstName": "dwe dew",
+    "LastName": "ewfewf",
+    "PhoneNumber": "wcwec",
+    "Id": 3
+  },
+  {
+    "FirstName": "Abdura",
+    "LastName": "Abdura",
+    "PhoneNumber": "098765",
+    "Id": 4
+  },
+  {
+    "FirstName": "Mirzohid",
+    "LastName": "Mominov",
+    "PhoneNumber": "998943007340",
+    "Id": 5
+  }
+]

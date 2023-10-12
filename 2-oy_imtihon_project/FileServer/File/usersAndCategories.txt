@@ -1,0 +1,35 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "dsfbgsd",
+    "LastName": "fsaf",
+    "DateOfBearth": "2023-02-03T00:00:00",
+    "Weight": 2343,
+    "Height": 2134,
+    "EmailAddress": null,
+    "Password": null,
+    "UserName": "dvsb"
+  },
+  {
+    "Id": 4,
+    "FirstName": "Mirzohid",
+    "LastName": "Halimov",
+    "DateOfBearth": "2003-04-04T00:00:00",
+    "Weight": 32,
+    "Height": 43,
+    "EmailAddress": "2323432",
+    "Password": "3232",
+    "UserName": "refdsaf"
+  },
+  {
+    "Id": 6,
+    "FirstName": "Mominov",
+    "LastName": "Mirzohid",
+    "DateOfBearth": "2004-02-03T00:00:00",
+    "Weight": 57,
+    "Height": 1.72,
+    "EmailAddress": "mominov04@gmail.com",
+    "Password": "23456",
+    "UserName": "Admeral"
+  }
+]
